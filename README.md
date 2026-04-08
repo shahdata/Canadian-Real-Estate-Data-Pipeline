@@ -53,8 +53,14 @@ Fraud cases (low price + large area in prime locations)
 ### 📊 Price vs Area Scatter Plot
 ![scatter_plot](https://github.com/user-attachments/assets/25971269-4b4e-4c20-8233-ab5a4be67adb)
 
+### 📊 Distribution of Rental Prices in Canada
 
-👉 Used to visually detect fraud (cheap large properties)
+![distribution_of_rent](https://github.com/user-attachments/assets/6a6ce1f9-2e42-4f18-b610-c5162c566487)
+
+### 📊 Average Rental Price by Canadian City
+
+![avg_rent_by_city](https://github.com/user-attachments/assets/f21914c0-659f-4ed2-8638-d85c5fd56a01)
+
 
 
 ---
