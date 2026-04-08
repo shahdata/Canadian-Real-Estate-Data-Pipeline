@@ -1,0 +1,251 @@
+id,price_cad,square_feet,bedrooms,bathrooms,cityname,province,latitude,longitude,amenities,posted_date,building_type
+1,1479.91,903.0,1,1,Edmonton,Alberta,53.5484309523906,-113.49262005387656,"Laundry, Gym, Parking",2025-12-26,Basement
+2,2014.63,706.0,2,1,Mississauga,Ontario,43.57423670306845,-79.62923019041952,"Pet Friendly, Gym",2025-07-07,Basement
+3,2382.25,822.0,1,1,Vancouver,British Columbia,49.272484478053244,-123.12231755386398,"Balcony, Pool, Pet Friendly, Parking",2025-09-22,Condo
+4,2229.02,555.0,2,2,Montreal,Quebec,45.492628134198526,-73.5554137427357,"Parking, Pet Friendly, Gym",2025-02-13,Condo
+5,,805.0,1,2,Edmonton,Alberta,53.527343232277936,-113.50746782138886,"Pet Friendly, Pool, Laundry, Parking",2025-06-06,Townhouse
+6,2312.4,986.0,1,2,Montreal,Quebec,45.49063665025994,-73.57926206624082,"Pet Friendly, Balcony, Pool, Laundry",2025-11-24,Basement
+7,1370.34,927.0,3,1,Ottawa,Ontario,45.417513616099846,-75.69780864087474,"Balcony, Gym, Laundry, Parking",2025-09-12,Condo
+8,2034.82,740.0,2,1,Ottawa,Ontario,45.406830321148206,-75.68827370528493,"Pet Friendly, Gym, Laundry, Parking",2025-11-23,Townhouse
+9,2202.85,862.0,2,2,Surrey,British Columbia,49.19426120277065,-122.8463894472782,"Balcony, Pet Friendly, Pool, Parking",2025-08-13,Apartment
+10,1750.8,550.0,1,1,Edmonton,Alberta,53.54591449195489,-113.5105350462199,"Balcony, Pet Friendly, Parking",2025-04-23,Condo
+11,2323.29,783.0,1,1,Toronto,Ontario,43.63785123049366,-79.35369746699132,"Parking, Pool, Pet Friendly",2025-07-17,Basement
+12,2361.12,519.0,3,1,Calgary,Alberta,51.0447914434574,-114.07555539296833,"Pet Friendly, Balcony",2025-12-15,Townhouse
+13,1711.88,746.0,3,2,Ottawa,Ontario,45.43193860610919,-75.69193551838664,"Pet Friendly, Gym",2025-05-31,Townhouse
+14,915.79,823.0,2,2,Quebec City,Quebec,46.81640492850345,-71.20453551790503,"Gym, Laundry",2025-04-09,Townhouse
+15,2161.22,1020.0,2,1,Montreal,Quebec,45.48839925934485,-73.56755287625572,"Pet Friendly, Pool, Laundry, Gym",2025-07-13,Condo
+16,2285.35,882.0,1,2,Montreal,Quebec,45.49905343166762,-73.54009830833411,"Parking, Laundry, Gym, Pet Friendly",2025-10-10,Townhouse
+17,2098.12,485.0,1,2,Surrey,British Columbia,49.19736129363099,-122.8684422959375,"Pool, Balcony",2025-01-06,Townhouse
+18,1620.19,680.0,3,2,Ottawa,Ontario,45.410022800271754,-75.68330397171853,"Pet Friendly, Laundry, Balcony",2025-11-19,Basement
+19,1643.11,912.0,3,2,Winnipeg,Manitoba,49.88954055102225,-97.13967734828465,"Laundry, Parking, Pet Friendly, Pool",2025-11-02,Apartment
+20,1538.97,499.0,3,1,Ottawa,Ontario,45.41256879726371,-75.70054817247394,"Balcony, Laundry, Pet Friendly",2025-05-05,Condo
+21,2283.49,955.0,3,2,Toronto,Ontario,43.63081857413342,-79.34515045685231,"Pet Friendly, Parking, Pool",2025-11-07,Basement
+22,1976.83,401.0,2,1,Toronto,Ontario,43.668724542402806,-79.3429651828904,"Gym, Pool, Pet Friendly",2025-02-27,Condo
+23,1973.54,915.0,3,1,Montreal,Quebec,45.498893451246595,-73.57333975919498,"Parking, Pet Friendly, Gym",2025-03-27,Apartment
+24,2879.64,919.0,2,2,Vancouver,British Columbia,49.294331637521545,-123.12059766938981,"Pool, Laundry",2025-10-17,Basement
+25,2489.05,1108.0,2,1,Surrey,British Columbia,49.20267017418633,-122.84453109855227,"Parking, Balcony, Pool, Gym",2025-02-02,Apartment
+26,1705.43,841.0,2,2,Montreal,Quebec,45.505320139119426,-73.56148685865965,"Balcony, Laundry, Parking",2025-07-15,Condo
+27,2120.3,898.0,3,1,Surrey,British Columbia,49.20682859775839,-122.85339517875475,"Pet Friendly, Balcony, Pool, Parking",2025-06-01,Townhouse
+28,1349.26,531.0,1,2,Quebec City,Quebec,46.814869959649926,-71.20204842974563,"Gym, Balcony",2025-03-17,Apartment
+29,2180.76,639.0,1,2,Surrey,British Columbia,49.183045028032076,-122.85221385841653,"Laundry, Pool",2025-08-11,Condo
+30,1845.54,1071.0,3,2,Quebec City,Quebec,46.8245069246318,-71.20562514748377,"Balcony, Laundry",2025-07-13,Apartment
+31,1512.62,757.0,2,1,Calgary,Alberta,51.05321944467565,-114.06421660545695,"Parking, Balcony, Laundry, Pool",2025-06-22,Apartment
+32,1936.07,1026.0,1,1,Quebec City,Quebec,46.811225993621164,-71.2090384111743,"Pool, Laundry",2025-02-27,Basement
+33,2289.45,810.0,1,1,Surrey,British Columbia,49.213198029332176,-122.85708298285356,"Pool, Pet Friendly, Laundry",2025-05-24,Townhouse
+34,2085.09,591.0,2,2,Montreal,Quebec,45.49271585328652,-73.56238080828494,"Pet Friendly, Gym",2025-05-25,Apartment
+35,2296.79,1095.0,2,2,Ottawa,Ontario,45.404368654709096,-75.68366127625833,"Laundry, Gym, Parking, Pool",2025-03-06,Condo
+36,1903.47,1046.0,1,1,Calgary,Alberta,51.060661429439016,-114.06588946055788,"Pet Friendly, Gym, Pool, Laundry",2025-07-16,Townhouse
+37,1319.97,924.0,2,1,Winnipeg,Manitoba,49.89752333686083,-97.11792601078871,"Pool, Parking, Gym, Laundry",2025-10-15,Condo
+38,1592.84,978.0,1,2,Calgary,Alberta,51.04036349673228,-114.07532308638625,"Gym, Laundry, Pet Friendly",2025-07-26,Apartment
+39,2623.37,448.0,3,1,Mississauga,Ontario,43.59868628484627,-79.63764267211276,"Pool, Balcony, Pet Friendly, Parking",2025-12-01,Basement
+40,1494.11,959.0,1,2,Winnipeg,Manitoba,49.91851975202513,-97.14941854799982,"Pool, Laundry, Pet Friendly",2025-02-12,Basement
+41,1436.78,912.0,1,1,Calgary,Alberta,51.036545009267115,-114.07749025493234,"Pet Friendly, Parking, Gym, Laundry",2025-05-02,Townhouse
+42,2773.17,1276.0,2,2,Surrey,British Columbia,49.17903946995802,-122.84858334732876,"Balcony, Laundry",2025-10-09,Apartment
+43,2840.54,675.0,1,2,Toronto,Ontario,43.65958402092379,-79.35689435845796,"Parking, Balcony, Pool, Laundry",2025-08-04,Condo
+44,2931.55,1023.0,2,2,Edmonton,Alberta,53.53836775029547,-113.49730789245172,"Laundry, Gym, Balcony, Pet Friendly",2025-07-21,Townhouse
+45,2360.09,377.0,1,1,Toronto,Ontario,43.66033177547531,-79.3279208335953,"Pet Friendly, Balcony, Parking",2025-03-24,Condo
+46,1068.35,795.0,1,2,Montreal,Quebec,45.50218521627945,-73.57560950116411,"Parking, Balcony",2025-11-14,Condo
+47,1969.59,981.0,3,2,Montreal,Quebec,45.49507376241054,-73.56159401331408,"Balcony, Laundry, Pet Friendly",2025-12-01,Townhouse
+48,1436.12,927.0,3,1,Calgary,Alberta,51.03609586634716,-114.0757455554423,"Laundry, Parking, Pool",2025-12-22,Apartment
+49,1139.91,845.0,1,1,Edmonton,Alberta,53.55061515942019,-113.48736197398296,"Gym, Laundry",2025-02-07,Townhouse
+50,2348.46,679.0,3,1,Mississauga,Ontario,43.584575676250886,-79.63951289828441,"Pool, Gym",2025-09-24,Apartment
+51,2115.91,1215.0,1,2,Ottawa,Ontario,45.4191082133397,-75.68896895024254,"Balcony, Laundry",2025-01-23,Townhouse
+52,2194.25,954.0,2,1,Surrey,British Columbia,49.18642604976079,-122.84496179441321,"Balcony, Parking, Pet Friendly, Laundry",2025-06-06,Apartment
+53,2888.03,944.0,2,2,Toronto,Ontario,43.64837125064707,-79.35680263715783,"Pet Friendly, Laundry, Parking",2025-10-21,Apartment
+54,1729.04,689.0,2,1,Montreal,Quebec,45.48992214458507,-73.57410261587194,"Balcony, Parking, Gym, Laundry",2025-10-10,Apartment
+55,1961.75,788.0,1,2,Edmonton,Alberta,53.55091009231737,-113.4915611597572,"Laundry, Pet Friendly, Pool",2025-11-12,Townhouse
+56,2381.99,934.0,1,2,Montreal,Quebec,45.50588839413869,-73.57119288191728,"Laundry, Pet Friendly, Pool, Gym",2025-09-14,Condo
+57,2522.29,1018.0,1,1,Toronto,Ontario,43.63551250024128,-79.37486135644782,"Laundry, Pool",2025-06-03,Apartment
+58,2322.61,816.0,2,2,Toronto,Ontario,43.65185408922506,-79.36186201571518,"Gym, Pool",2025-10-12,Townhouse
+59,2180.36,767.0,1,1,Toronto,Ontario,43.6767692683969,-79.358086044546,"Parking, Gym",2025-02-01,Condo
+60,2616.0,599.0,2,2,Mississauga,Ontario,43.589636332403686,-79.63458485937056,"Laundry, Pet Friendly",2025-02-24,Townhouse
+61,4630.41,1054.0,3,1,Toronto,Ontario,43.66356805319411,-79.34281175412815,"Gym, Laundry, Pet Friendly, Pool",2025-02-20,Apartment
+62,1922.69,619.0,2,1,Vancouver,British Columbia,49.277472769794805,-123.11020990774163,"Gym, Pet Friendly",2025-02-05,Apartment
+63,2521.71,1017.0,1,2,Winnipeg,Manitoba,49.904818226901725,-97.13870958250637,"Laundry, Balcony, Pool",2025-12-08,Basement
+64,3411.39,243.0,2,1,Toronto,Ontario,43.65227647225994,-79.3338940805025,"Pet Friendly, Balcony",2025-01-29,Apartment
+65,848.16,910.0,1,2,Winnipeg,Manitoba,49.902216226504706,-97.15172744470789,"Pool, Parking, Pet Friendly",2025-01-27,Apartment
+66,1363.65,544.0,2,2,Surrey,British Columbia,49.204713119197,-122.85783777788865,"Laundry, Gym, Balcony",2025-10-09,Apartment
+67,1916.4,826.0,2,2,Edmonton,Alberta,53.52920442773922,-113.4839287779987,"Pet Friendly, Balcony",2025-08-15,Basement
+68,652.26,729.0,1,1,Winnipeg,Manitoba,49.90131809962217,-97.1541022471989,"Balcony, Laundry",2025-05-11,Condo
+69,2394.29,681.0,1,2,Ottawa,Ontario,45.41696255691464,-75.69087058366206,"Pet Friendly, Balcony",2025-05-29,Apartment
+70,2141.94,1005.0,2,1,Quebec City,Quebec,46.81350444846143,-71.20118499302627,"Laundry, Pool, Balcony",2025-09-27,Townhouse
+71,2413.82,977.0,1,2,Vancouver,British Columbia,49.29714173078549,-123.13974512071866,"Pet Friendly, Gym, Parking, Balcony",2025-05-11,Apartment
+72,,839.0,2,1,Montreal,Quebec,45.49732334330197,-73.57916335095221,"Pool, Parking",2025-08-15,Condo
+73,1990.29,,3,1,Ottawa,Ontario,45.429361749201895,-75.70172328165634,"Balcony, Gym, Laundry",2025-03-06,Condo
+74,1426.53,558.0,3,2,Mississauga,Ontario,43.58750810840241,-79.6506941341145,"Laundry, Parking",2025-11-15,Condo
+75,1915.67,1291.0,2,1,Calgary,Alberta,51.0589050424799,-114.0776074629375,"Balcony, Laundry, Pool",2025-09-19,Apartment
+76,2637.45,724.0,1,1,Toronto,Ontario,43.64502372221398,-79.34732450647932,"Pool, Balcony",2025-09-24,Apartment
+77,2314.35,866.0,1,1,Mississauga,Ontario,43.59807494768417,-79.64374105450231,"Parking, Balcony, Pet Friendly, Pool",2025-09-08,Apartment
+78,2529.55,573.0,1,1,Ottawa,Ontario,45.41221730548584,-75.69125631191076,"Gym, Balcony, Pet Friendly",2025-10-31,Apartment
+79,1951.87,633.0,3,2,Surrey,British Columbia,49.1777014385902,-122.84153746433974,"Laundry, Gym, Pool",2025-08-12,Apartment
+80,1811.52,837.0,3,2,Montreal,Quebec,45.506604195717024,-73.57333780239063,"Parking, Pet Friendly",2025-02-06,Apartment
+81,1776.02,,3,2,Toronto,Ontario,43.666725240292344,-79.34767250261073,"Gym, Parking, Pool",2025-01-07,Apartment
+82,1771.32,790.0,1,1,Winnipeg,Manitoba,49.899408402443335,-97.13596692335872,"Laundry, Parking, Gym, Pool",2025-03-25,Condo
+83,1609.1,1132.0,3,1,Surrey,British Columbia,49.17966779459909,-122.823359420507,"Parking, Balcony",2025-06-12,Basement
+84,1732.43,703.0,3,1,Montreal,Quebec,45.50080264305713,-73.55289882784551,"Pet Friendly, Parking, Balcony",2025-06-30,Basement
+85,1849.99,648.0,2,2,Edmonton,Alberta,53.565728226340454,-113.49765060261859,"Pet Friendly, Pool",2025-03-13,Townhouse
+86,3188.91,700.0,1,1,Mississauga,Ontario,43.58576643787713,-79.64362396448185,"Balcony, Gym",2025-06-28,Basement
+87,2401.36,975.0,2,2,Calgary,Alberta,51.053893028697075,-114.06637475914742,"Pet Friendly, Pool",2025-03-18,Basement
+88,4053.79,984.0,3,1,Winnipeg,Manitoba,49.90827394065634,-97.13642400395308,"Parking, Pool",2025-11-14,Basement
+89,1268.12,795.0,2,1,Winnipeg,Manitoba,49.8847842375313,-97.14369298237547,"Gym, Balcony, Parking",2025-10-28,Townhouse
+90,1474.8,783.0,2,2,Edmonton,Alberta,53.543526234625766,-113.51048584073877,"Gym, Pool, Parking, Laundry",2025-05-11,Basement
+91,2473.15,974.0,2,2,Surrey,British Columbia,49.204469435632326,-122.8446069724232,"Balcony, Gym, Pet Friendly",2025-09-07,Apartment
+92,1960.93,484.0,3,1,Edmonton,Alberta,53.54840640910265,-113.51704679272486,"Pet Friendly, Laundry, Gym",2025-04-10,Basement
+93,2089.78,1034.0,1,1,Surrey,British Columbia,49.208467654803144,-122.83362388439926,"Pet Friendly, Balcony, Pool",2025-05-25,Townhouse
+94,2581.23,895.0,3,2,Vancouver,British Columbia,49.274316125088816,-123.11549335579465,"Pool, Parking, Laundry",2025-09-14,Apartment
+95,3161.82,478.0,1,1,Vancouver,British Columbia,49.283183851182855,-123.12757543451339,"Parking, Gym",2025-04-18,Townhouse
+96,2659.67,704.0,1,1,Vancouver,British Columbia,49.26725535506393,-123.11566570917398,"Laundry, Gym, Pool, Pet Friendly",2025-01-12,Condo
+97,2371.15,382.0,2,1,Mississauga,Ontario,43.587093175992365,-79.6419256712682,"Balcony, Parking, Pet Friendly",2025-05-09,Townhouse
+98,2158.86,794.0,2,2,Mississauga,Ontario,43.60533431532301,-79.65556345393018,"Balcony, Gym, Pet Friendly, Pool",2025-10-16,Apartment
+99,1103.99,711.0,3,1,Winnipeg,Manitoba,49.90733190105426,-97.13145766589514,"Gym, Pool",2025-09-02,Apartment
+100,3018.77,913.0,1,1,Vancouver,British Columbia,49.298645050632246,-123.12916961348319,"Laundry, Pet Friendly, Gym, Parking",2025-03-30,Apartment
+101,2025.43,1249.0,2,2,Quebec City,Quebec,46.80935755724846,-71.20819935395245,"Pet Friendly, Parking, Laundry, Balcony",2025-01-03,Apartment
+102,847.73,834.0,3,2,Winnipeg,Manitoba,49.88323302882312,-97.12309267607462,"Balcony, Parking, Pool, Laundry",2025-01-21,Townhouse
+103,2524.44,910.0,1,2,Vancouver,British Columbia,49.27280371863429,-123.11129228812011,"Pet Friendly, Gym",2025-10-18,Basement
+104,2636.57,1062.0,2,1,Vancouver,British Columbia,49.27691036744805,-123.12006311606348,"Laundry, Pool",2025-02-05,Basement
+105,1599.0,1250.0,2,1,Winnipeg,Manitoba,49.88791592734431,-97.12945075623055,"Pool, Balcony, Laundry, Parking",2025-03-13,Basement
+106,2174.22,978.0,3,2,Ottawa,Ontario,45.41602509643001,-75.7065777983387,"Balcony, Laundry, Pool",2025-04-18,Condo
+107,2385.55,1242.0,2,1,Ottawa,Ontario,45.43126383953462,-75.68615950863516,"Laundry, Balcony",2025-03-26,Condo
+108,2117.04,696.0,2,2,Edmonton,Alberta,53.55771923602148,-113.5093153054675,"Gym, Pool, Parking, Pet Friendly",2025-06-13,Townhouse
+109,2697.35,993.0,1,2,Toronto,Ontario,43.65801997900777,-79.32754957162486,"Balcony, Laundry, Parking",2025-09-16,Condo
+110,1419.55,674.0,2,2,Mississauga,Ontario,43.565644272758334,-79.64909297239572,"Gym, Parking",2025-11-07,Basement
+111,1263.07,736.0,1,1,Edmonton,Alberta,53.55318108676689,-113.48423297683205,"Parking, Pool, Pet Friendly",2025-08-19,Basement
+112,2171.76,622.0,1,2,Vancouver,British Columbia,49.291063237229956,-123.12038733122752,"Gym, Laundry, Pool, Balcony",2025-06-29,Condo
+113,1002.43,1043.0,1,2,Calgary,Alberta,51.039628769399435,-114.07426354737089,"Parking, Laundry, Pet Friendly",2025-06-07,Condo
+114,2384.91,824.0,1,2,Surrey,British Columbia,49.19186649924897,-122.84370307245644,"Balcony, Pool",2025-01-25,Apartment
+115,2224.27,771.0,1,1,Vancouver,British Columbia,49.299094886594176,-123.12169292710041,"Pet Friendly, Parking, Balcony",2025-01-05,Townhouse
+116,1660.6,451.0,1,1,Montreal,Quebec,45.4957717206262,-73.5723733277539,"Laundry, Gym, Parking",2025-09-17,Townhouse
+117,,986.0,3,2,Vancouver,British Columbia,49.27693489599273,-123.14661042292146,"Parking, Balcony",2025-08-17,Apartment
+118,1954.79,1073.0,3,1,Calgary,Alberta,51.03475893766958,-114.07220938997156,"Pool, Parking",2025-08-01,Apartment
+119,1622.78,791.0,2,2,Surrey,British Columbia,49.19421449923212,-122.85630681963804,"Pool, Gym, Pet Friendly, Laundry",2025-02-11,Apartment
+120,1357.75,1165.0,2,2,Quebec City,Quebec,46.807495065652304,-71.20631604807525,"Gym, Parking, Pool",2025-10-17,Basement
+121,2867.82,851.0,3,1,Montreal,Quebec,45.504057621324016,-73.567482499652,"Parking, Gym",2025-01-17,Apartment
+122,2872.11,1031.0,3,2,Vancouver,British Columbia,49.26848189333258,-123.10568666348044,"Parking, Laundry",2025-08-08,Apartment
+123,2115.47,776.0,3,2,Mississauga,Ontario,43.61263633443675,-79.6398864043195,"Laundry, Balcony, Pool, Parking",2025-09-15,Condo
+124,2054.02,632.0,3,1,Mississauga,Ontario,43.591104705415304,-79.64574563071008,"Pet Friendly, Balcony",2025-10-05,Basement
+125,2198.47,727.0,3,2,Montreal,Quebec,45.51294798644593,-73.57529394076161,"Parking, Pool",2025-08-26,Townhouse
+126,1562.25,782.0,3,2,Quebec City,Quebec,46.83201375028665,-71.20176451143098,"Pet Friendly, Balcony, Gym, Parking",2025-07-08,Apartment
+127,2100.78,841.0,2,2,Edmonton,Alberta,53.54870662833151,-113.50780507960275,"Pet Friendly, Gym",2025-04-14,Townhouse
+128,2317.81,989.0,1,2,Edmonton,Alberta,53.53160143434519,-113.50486308181227,"Parking, Pool, Laundry",2025-07-28,Condo
+129,1957.58,1044.0,2,2,Ottawa,Ontario,45.406243436854304,-75.68457415896572,"Parking, Pool, Gym, Pet Friendly",2025-08-15,Condo
+130,1022.18,467.0,1,2,Quebec City,Quebec,46.81382957201075,-71.19487591378257,"Parking, Laundry, Pet Friendly, Pool",2025-06-11,Condo
+131,1931.93,709.0,2,1,Ottawa,Ontario,45.41567363125701,-75.69891249175437,"Balcony, Gym, Parking, Pet Friendly",2025-12-16,Townhouse
+132,1675.94,915.0,3,1,Quebec City,Quebec,46.82107990309916,-71.19124452606455,"Gym, Parking, Balcony, Pool",2025-03-31,Basement
+133,1856.35,446.0,1,1,Calgary,Alberta,51.04626378122918,-114.06858028266046,"Balcony, Laundry, Parking",2025-11-16,Apartment
+134,1582.27,724.0,1,2,Winnipeg,Manitoba,49.89190992333247,-97.13858316859444,"Balcony, Pool",2025-12-30,Basement
+135,1859.94,759.0,3,1,Montreal,Quebec,45.502716442876896,-73.57861026391492,"Pool, Balcony, Laundry",2025-02-13,Apartment
+136,2432.48,822.0,3,2,Toronto,Ontario,43.642692520184056,-79.34090690166245,"Pool, Parking, Laundry, Pet Friendly",2025-06-14,Condo
+137,2686.57,792.0,1,1,Toronto,Ontario,43.648114587598535,-79.34549184486423,"Laundry, Balcony",2025-11-23,Condo
+138,2669.5,988.0,2,1,Calgary,Alberta,51.06102652497697,-114.07450912266117,"Parking, Pool, Laundry",2025-02-26,Condo
+139,,844.0,3,2,Montreal,Quebec,45.50527624259324,-73.57567319079331,"Pool, Pet Friendly, Gym, Laundry",2025-03-09,Condo
+140,2455.81,902.0,2,2,Vancouver,British Columbia,49.2746663620394,-123.14199976875582,"Pool, Laundry, Balcony",2025-02-13,Apartment
+141,2149.15,624.0,2,2,Mississauga,Ontario,43.59384732817294,-79.6525635665499,"Gym, Pet Friendly",2025-02-16,Townhouse
+142,2533.52,714.0,2,1,Mississauga,Ontario,43.59903498453553,-79.65037916522597,"Balcony, Gym, Pool",2025-01-08,Apartment
+143,,1028.0,1,1,Calgary,Alberta,51.05657386051565,-114.04600436357981,"Parking, Pool",2025-08-11,Townhouse
+144,1399.16,911.0,3,1,Quebec City,Quebec,46.81224600981856,-71.19494030082673,"Pet Friendly, Pool",2025-07-30,Basement
+145,2394.7,686.0,2,2,Surrey,British Columbia,49.195773593021904,-122.86113927380653,"Pet Friendly, Pool",2025-06-12,Basement
+146,1092.62,1048.0,3,2,Edmonton,Alberta,53.54893287871546,-113.49638904973703,"Balcony, Gym, Laundry, Parking",2025-03-07,Townhouse
+147,2296.32,955.0,2,1,Toronto,Ontario,43.658306105872285,-79.3403403921836,"Gym, Laundry, Parking, Pool",2025-10-29,Basement
+148,4030.6,869.0,2,2,Mississauga,Ontario,43.588506230964434,-79.64712964454901,"Pool, Balcony, Gym",2025-05-27,Condo
+149,1716.35,976.0,1,1,Winnipeg,Manitoba,49.87809795125452,-97.13311696965333,"Gym, Pet Friendly, Balcony",2025-10-02,Townhouse
+150,1678.53,586.0,3,2,Surrey,British Columbia,49.18625169435155,-122.84104928383195,"Pool, Pet Friendly, Laundry",2025-04-30,Townhouse
+151,2340.94,663.0,1,1,Ottawa,Ontario,45.41029577340088,-75.6982993771537,"Gym, Pet Friendly",2025-07-20,Apartment
+152,1945.02,990.0,3,2,Ottawa,Ontario,45.41942368947018,-75.71469977874219,"Gym, Parking",2025-12-14,Basement
+153,2516.35,821.0,1,2,Quebec City,Quebec,46.81169805372992,-71.22867854726435,"Pool, Parking",2025-05-16,Townhouse
+154,893.03,510.0,1,1,Montreal,Quebec,45.47785643324644,-73.58171132619857,"Pool, Laundry",2025-05-16,Townhouse
+155,1650.94,,1,1,Winnipeg,Manitoba,49.89445929699871,-97.1443027548336,"Gym, Pet Friendly",2025-07-02,Apartment
+156,3092.23,658.0,1,1,Toronto,Ontario,43.659177036553494,-79.34166326528951,"Gym, Pool",2025-03-31,Townhouse
+157,3144.89,979.0,2,1,Toronto,Ontario,43.65618924091029,-79.34869808233962,"Balcony, Pet Friendly, Pool, Parking",2025-03-25,Apartment
+158,1923.59,861.0,2,2,Quebec City,Quebec,46.82672098920958,-71.20683130617658,"Laundry, Gym, Pool, Balcony",2025-09-16,Basement
+159,2123.51,983.0,3,1,Montreal,Quebec,45.511394572005266,-73.56302805638128,"Pool, Pet Friendly, Laundry, Parking",2025-02-18,Townhouse
+160,1681.61,1016.0,1,1,Calgary,Alberta,51.043917293361964,-114.07535609514697,"Parking, Pool, Pet Friendly",2025-07-14,Basement
+161,1463.61,717.0,1,2,Montreal,Quebec,45.485411098164256,-73.55457512553402,"Balcony, Gym",2025-05-06,Townhouse
+162,3205.85,1207.0,1,1,Vancouver,British Columbia,49.27171854521969,-123.12431811339232,"Gym, Parking, Laundry",2025-09-17,Condo
+163,1864.72,711.0,2,1,Mississauga,Ontario,43.587926978559956,-79.63962283074189,"Laundry, Pool, Parking",2025-03-28,Condo
+164,1322.43,828.0,2,1,Calgary,Alberta,51.04301856181415,-114.07662090577698,"Gym, Parking, Laundry",2025-02-11,Condo
+165,2124.45,898.0,3,2,Surrey,British Columbia,49.21090691272161,-122.83772641756826,"Laundry, Parking",2025-09-30,Townhouse
+166,1822.45,890.0,1,2,Surrey,British Columbia,49.19456798909889,-122.83270990396652,"Balcony, Laundry, Gym",2025-11-06,Apartment
+167,1833.81,974.0,2,1,Surrey,British Columbia,49.17315126955626,-122.82963610697432,"Pet Friendly, Parking, Balcony, Laundry",2025-07-02,Condo
+168,2145.07,,3,2,Quebec City,Quebec,46.80366772233857,-71.21594426053468,"Gym, Parking, Pet Friendly, Pool",2025-11-24,Basement
+169,2154.18,957.0,2,1,Calgary,Alberta,51.059169335381995,-114.07049061114408,"Pool, Parking, Laundry, Balcony",2025-07-23,Condo
+170,3337.46,971.0,1,1,Ottawa,Ontario,45.413829454934294,-75.69508182921025,"Pool, Gym",2025-05-08,Apartment
+171,1216.07,995.0,3,2,Quebec City,Quebec,46.80926731044339,-71.21019443811645,"Laundry, Balcony, Parking, Gym",2025-10-17,Apartment
+172,1510.62,925.0,2,2,Edmonton,Alberta,53.54669552968314,-113.4972188773617,"Pet Friendly, Parking, Pool",2025-08-03,Condo
+173,1954.17,552.0,1,1,Edmonton,Alberta,53.56410511181511,-113.4814105364706,"Pet Friendly, Laundry",2025-12-03,Townhouse
+174,2770.12,1243.0,2,2,Vancouver,British Columbia,49.273057053602436,-123.11134118443728,"Gym, Balcony",2025-09-21,Condo
+175,2249.52,803.0,2,1,Toronto,Ontario,43.652919008169285,-79.357544650784,"Pool, Laundry, Balcony, Pet Friendly",2025-11-16,Apartment
+176,2610.97,667.0,1,1,Mississauga,Ontario,43.603227481360996,-79.63483784597757,"Gym, Balcony",2025-07-05,Townhouse
+177,1334.22,678.0,1,1,Winnipeg,Manitoba,49.87084785722127,-97.13870171666629,"Balcony, Gym, Pet Friendly, Pool",2025-07-20,Apartment
+178,1201.51,787.0,3,2,Quebec City,Quebec,46.817824651411264,-71.20170405863605,"Pool, Pet Friendly",2025-04-10,Townhouse
+179,2068.19,585.0,2,1,Calgary,Alberta,51.04141381524251,-114.06586812568918,"Parking, Pet Friendly, Balcony, Pool",2025-05-29,Basement
+180,2400.83,903.0,1,2,Ottawa,Ontario,45.41290912057636,-75.68524663881996,"Laundry, Pool, Parking, Pet Friendly",2025-04-12,Basement
+181,2165.61,610.0,2,2,Calgary,Alberta,51.04701648015484,-114.06092157639112,"Balcony, Gym, Pool",2025-09-29,Townhouse
+182,,918.0,2,1,Winnipeg,Manitoba,49.90498669169358,-97.15191445764893,"Laundry, Balcony",2025-09-01,Apartment
+183,1842.32,953.0,1,1,Edmonton,Alberta,53.54782594103915,-113.49822725052184,"Gym, Parking",2025-06-06,Condo
+184,2814.84,810.0,1,1,Vancouver,British Columbia,49.28595707357813,-123.12439585528917,"Balcony, Parking, Pet Friendly, Pool",2025-01-26,Apartment
+185,2349.15,903.0,2,2,Montreal,Quebec,45.48599006644325,-73.56745652061622,"Gym, Balcony, Pet Friendly",2025-06-23,Condo
+186,1256.94,836.0,1,2,Montreal,Quebec,45.51123671678166,-73.56774764807386,"Parking, Pool",2025-08-11,Condo
+187,1549.73,919.0,1,2,Toronto,Ontario,43.64601343640062,-79.35274086663846,"Balcony, Parking, Pet Friendly, Gym",2025-11-28,Townhouse
+188,2370.35,803.0,1,2,Mississauga,Ontario,43.58586941969477,-79.64410708594576,"Gym, Balcony, Pet Friendly",2025-07-06,Basement
+189,,1053.0,3,1,Winnipeg,Manitoba,49.91609721789167,-97.14087025700746,"Pool, Parking",2025-04-01,Condo
+190,2898.35,507.0,3,2,Winnipeg,Manitoba,49.89916477477238,-97.15419615507406,"Gym, Laundry",2025-04-01,Condo
+191,1715.53,946.0,1,2,Mississauga,Ontario,43.58535450853465,-79.6587155617725,"Pet Friendly, Laundry, Parking, Balcony",2025-07-12,Apartment
+192,2119.69,1326.0,3,1,Montreal,Quebec,45.495136906087694,-73.57522694282186,"Laundry, Pool, Pet Friendly, Parking",2025-10-06,Condo
+193,1827.96,817.0,3,2,Ottawa,Ontario,45.431870472887404,-75.68979409131896,"Gym, Laundry, Pet Friendly",2025-10-07,Townhouse
+194,1525.27,,1,2,Winnipeg,Manitoba,49.888342919208384,-97.13805847582512,"Laundry, Parking, Gym, Pool",2025-11-14,Apartment
+195,2177.91,682.0,3,2,Winnipeg,Manitoba,49.88447702844834,-97.15038283385748,"Pool, Parking, Gym, Balcony",2025-08-27,Apartment
+196,1258.42,615.0,3,1,Quebec City,Quebec,46.80559555593443,-71.20277485894734,"Pool, Pet Friendly, Parking",2025-08-29,Basement
+197,1910.11,520.0,1,2,Quebec City,Quebec,46.813413931051265,-71.20351386896682,"Balcony, Gym, Laundry, Pet Friendly",2025-08-29,Apartment
+198,2632.78,999.0,1,1,Mississauga,Ontario,43.5933950123062,-79.63631063496487,"Laundry, Pool, Parking, Pet Friendly",2025-09-08,Apartment
+199,947.82,898.0,2,1,Edmonton,Alberta,53.54663920425306,-113.4645664438268,"Parking, Balcony, Gym, Pet Friendly",2025-10-16,Condo
+200,2000.27,809.0,1,1,Calgary,Alberta,51.05050053248448,-114.06178923542448,"Pool, Parking, Gym, Laundry",2025-05-27,Basement
+201,2087.0,687.0,3,2,Edmonton,Alberta,53.53383124465486,-113.49814645089789,"Balcony, Parking, Pet Friendly, Laundry",2025-06-28,Condo
+202,2455.1,940.0,1,2,Toronto,Ontario,43.65271743787464,-79.34742018350036,"Balcony, Pool, Pet Friendly, Laundry",2025-08-02,Apartment
+203,3046.96,1089.0,3,2,Vancouver,British Columbia,49.26941685048535,-123.11992526281263,"Pool, Pet Friendly, Gym",2025-07-21,Apartment
+204,1955.27,807.0,2,2,Calgary,Alberta,51.054184463498615,-114.08475954773715,"Gym, Laundry",2025-09-23,Condo
+205,1914.28,586.0,3,2,Calgary,Alberta,51.054776534926006,-114.09196130203102,"Pet Friendly, Gym, Pool, Balcony",2025-11-18,Condo
+206,1927.51,1107.0,3,2,Quebec City,Quebec,46.811750896448494,-71.20523206550675,"Pet Friendly, Gym, Pool",2025-09-23,Apartment
+207,1222.19,1086.0,1,1,Calgary,Alberta,51.03638600532732,-114.06492413399653,"Gym, Pet Friendly",2025-05-18,Basement
+208,1454.24,771.0,3,1,Calgary,Alberta,51.05277530999819,-114.08163242313373,"Gym, Pet Friendly, Parking, Pool",2025-09-05,Basement
+209,2323.79,902.0,3,2,Montreal,Quebec,45.5063032987318,-73.58079548848174,"Laundry, Pool, Balcony, Gym",2025-10-17,Basement
+210,1608.74,573.0,3,1,Mississauga,Ontario,43.575239577362105,-79.64749601634487,"Pet Friendly, Parking, Laundry, Gym",2025-04-01,Condo
+211,1941.35,722.0,1,1,Quebec City,Quebec,46.83382515353168,-71.21566656587783,"Pet Friendly, Laundry, Parking",2025-12-29,Townhouse
+212,1941.43,,3,2,Surrey,British Columbia,49.201089240068654,-122.8590651329271,"Pet Friendly, Parking",2025-12-29,Condo
+213,1297.4,962.0,1,1,Calgary,Alberta,51.034621861012624,-114.08307074142462,"Pool, Balcony",2025-04-19,Townhouse
+214,1250.83,870.0,2,2,Montreal,Quebec,45.50807896738167,-73.57016721174762,"Parking, Pool",2025-06-26,Condo
+215,1870.08,1397.0,2,1,Calgary,Alberta,51.03482191165412,-114.06655221454194,"Pet Friendly, Gym, Balcony",2025-11-09,Townhouse
+216,2433.05,740.0,1,2,Vancouver,British Columbia,49.28842608107914,-123.11721309548243,"Parking, Pool",2025-09-03,Apartment
+217,1188.14,742.0,1,2,Winnipeg,Manitoba,49.90046377852602,-97.13473434242808,"Parking, Laundry, Balcony, Gym",2025-06-01,Basement
+218,2434.37,1011.0,2,2,Ottawa,Ontario,45.42048136605634,-75.68995589528566,"Pool, Laundry, Pet Friendly, Gym",2025-08-27,Apartment
+219,1501.67,930.0,1,1,Montreal,Quebec,45.5279079309103,-73.57841967025774,"Pet Friendly, Laundry, Balcony, Pool",2025-08-29,Condo
+220,2390.4,611.0,2,2,Surrey,British Columbia,49.20461756970394,-122.84856126640172,"Laundry, Pool",2025-12-30,Townhouse
+221,1563.95,1004.0,2,1,Quebec City,Quebec,46.815815392994445,-71.21359742473595,"Parking, Pet Friendly, Balcony",2025-07-23,Townhouse
+222,2680.03,701.0,1,1,Mississauga,Ontario,43.57447204104111,-79.65807157998218,"Parking, Gym, Laundry",2025-07-25,Basement
+223,1732.57,759.0,2,2,Winnipeg,Manitoba,49.90906596891581,-97.13425352014896,"Balcony, Pet Friendly",2025-07-26,Basement
+224,3448.62,954.0,1,1,Edmonton,Alberta,53.548006355912655,-113.48438689419231,"Pet Friendly, Balcony, Gym, Pool",2025-08-03,Townhouse
+225,1482.75,1012.0,3,2,Calgary,Alberta,51.06547379995591,-114.05768717017047,"Pet Friendly, Laundry, Gym, Pool",2025-08-10,Basement
+226,2662.35,715.0,1,2,Mississauga,Ontario,43.59497228218253,-79.65358348004224,"Balcony, Gym, Laundry",2025-08-10,Apartment
+227,2845.61,905.0,3,2,Vancouver,British Columbia,49.279373626816486,-123.11578457879122,"Pool, Gym, Parking",2025-09-14,Apartment
+228,2492.04,871.0,1,2,Surrey,British Columbia,49.19886788679987,-122.84287531205987,"Laundry, Gym, Parking",2025-09-15,Basement
+229,,761.0,1,1,Winnipeg,Manitoba,49.90132069990306,-97.12511066680464,"Gym, Parking",2025-10-31,Apartment
+230,3028.56,1204.0,1,1,Vancouver,British Columbia,49.29921546269192,-123.1019608257897,"Gym, Pet Friendly, Balcony",2025-01-19,Townhouse
+231,1847.06,379.0,3,1,Edmonton,Alberta,53.55548221997656,-113.49734937451431,"Pool, Balcony, Pet Friendly",2025-01-14,Townhouse
+232,2685.03,800.0,1,2,Montreal,Quebec,45.48849176226121,-73.54493716349204,"Laundry, Gym, Balcony",2025-07-12,Townhouse
+233,2821.66,970.0,2,2,Mississauga,Ontario,43.582526845916696,-79.64191007476666,"Parking, Balcony, Gym",2025-01-13,Apartment
+234,1977.68,632.0,1,2,Montreal,Quebec,45.50003530871765,-73.56518121321348,"Balcony, Gym, Pool",2025-11-14,Townhouse
+235,2199.13,838.0,3,2,Surrey,British Columbia,49.187759384531326,-122.85763864565874,"Pet Friendly, Balcony",2025-11-09,Basement
+236,2017.66,650.0,2,2,Surrey,British Columbia,49.1742778673392,-122.8536281568634,"Parking, Pool, Pet Friendly, Balcony",2025-02-21,Townhouse
+237,2117.32,556.0,2,1,Montreal,Quebec,45.50138560829625,-73.57578428634191,"Pool, Gym",2025-03-27,Basement
+238,2040.43,1100.0,2,2,Edmonton,Alberta,53.5342413945287,-113.51701956417341,"Pet Friendly, Parking, Gym",2025-05-25,Apartment
+239,2333.02,962.0,3,2,Quebec City,Quebec,46.81337595549422,-71.19095894483745,"Pool, Gym, Pet Friendly, Laundry",2025-05-28,Condo
+240,1630.22,1007.0,2,2,Calgary,Alberta,51.04564308578929,-114.0546251726197,"Pet Friendly, Balcony, Gym, Parking",2025-12-31,Apartment
+241,1918.25,496.0,3,2,Calgary,Alberta,51.05851783897452,-114.05316979376424,"Pool, Balcony, Gym, Parking",2025-05-11,Apartment
+242,1258.05,844.0,3,2,Edmonton,Alberta,53.5708938941871,-113.47112819804902,"Gym, Balcony, Pet Friendly, Parking",2025-12-15,Townhouse
+243,2068.04,1073.0,1,2,Calgary,Alberta,51.038138040451116,-114.07922892885728,"Gym, Pool",2025-09-30,Basement
+244,2045.81,1103.0,3,1,Edmonton,Alberta,53.54741419344042,-113.49787477171414,"Laundry, Pool, Pet Friendly",2025-12-04,Apartment
+245,2307.28,,3,1,Ottawa,Ontario,45.41580167071761,-75.69390491264427,"Pool, Gym, Pet Friendly, Balcony",2025-01-01,Basement
+246,1952.43,1111.0,3,1,Quebec City,Quebec,46.7995553465815,-71.21857332817174,"Pet Friendly, Laundry, Gym, Balcony",2025-08-01,Apartment
+247,2613.54,827.0,3,2,Ottawa,Ontario,45.40977739547109,-75.68573120800748,"Parking, Laundry",2025-12-05,Townhouse
+248,2753.06,1132.0,2,2,Mississauga,Ontario,43.60289964068604,-79.64713759781519,"Pet Friendly, Balcony",2025-02-27,Basement
+249,1828.6,635.0,2,2,Ottawa,Ontario,45.42235209449634,-75.727111359709,"Parking, Pool",2025-05-17,Townhouse
+250,1605.72,945.0,3,1,Winnipeg,Manitoba,49.90237080020451,-97.13396726701994,"Balcony, Laundry",2025-06-12,Basement
