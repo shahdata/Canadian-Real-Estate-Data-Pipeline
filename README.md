@@ -1,6 +1,13 @@
 # Canadian-Real-Estate-Data-Pipeline
 End-to-End Data Pipeline for Canadian Real Estate Data
 🏡 Canadian Real Estate Data Pipeline & Fraud Detection
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![OOP](https://img.shields.io/badge/Design-OOP-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Data Cleaning | Outlier Detection | Fraud Analysis | OOP Design
 
